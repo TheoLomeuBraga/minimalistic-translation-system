@@ -1,2 +1,4 @@
-#Simple Translation System <h1>
+Simple Translation System
+
+just read the src directory
 
