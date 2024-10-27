@@ -1,4 +1,5 @@
 #pragma once
+#include "minimalistic_translation_system.cpp"
 #include <fstream>
 #include <string>
 
